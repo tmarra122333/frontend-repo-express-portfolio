@@ -1,9 +1,7 @@
 function Home(props) {
-    return <h1>Home</h1>;
-    
-  <div class="title" data-splitting="lines">
-  SPACE<br/>
-  INVADERS
+    return <div class="title" data-splitting="lines">
+  Thomas Marra<br/>
+  Portfolio
 </div>
   }
   export default Home;
