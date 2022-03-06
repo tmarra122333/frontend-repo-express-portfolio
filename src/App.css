@@ -41,3 +41,8 @@
   }
 }
 
+.PhotosBooBoo {
+  width: 100px;
+  height: 100px;
+  outline: red solid 5px;
+}
