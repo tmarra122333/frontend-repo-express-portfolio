@@ -46,9 +46,17 @@
 }
 
 .PhotosBooBoo {
-  /* display: grid; */
-  flex-direction: row;
+  /* display: flex; */
+  /* flex-direction: row;
+  justify-content: space-around; */
   width: 400px;
   height: 300px;
-  outline: whitesmoke 5px;
+  outline: solid whitesmoke 5px;
 }
+
+/* .projectPage {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+
+} */
