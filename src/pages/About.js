@@ -23,7 +23,7 @@ function About(props) {
       <h2>{about.name}</h2>
       <h3>{about.email}</h3>
       <p>{about.bio}</p>
-      <img className="PhotosBooBoo" src={about.headshot} alt="" />  
+      <img className="PhotosBooBoo2" src={about.headshot} alt="" />  
     </div>
   );
 
